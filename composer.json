@@ -1,0 +1,13 @@
+{
+    "name": "maderlock/jiratool",
+    "autoload": {
+        "psr-0": { 
+            "": "src/"
+         }
+    },
+    "require": {
+        "guzzle/guzzle": "3.0.*",
+        "symfony/console": "^4.3",
+        "lesstif/php-jira-rest-client": "^1.41"
+    }
+}
